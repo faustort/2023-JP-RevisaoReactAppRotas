@@ -1,5 +1,7 @@
 import "bootstrap/dist/css/bootstrap.css";
-import RouterRoot from "./routes";
+import 'bootstrap/dist/js/bootstrap.min.js';
+
+import RouterRoot from './routes/index';
 
 function App() {
   return (
