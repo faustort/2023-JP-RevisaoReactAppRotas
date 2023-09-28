@@ -1,6 +1,3 @@
-import { Carousel } from "bootstrap";
-
-
 export default function HomeScreen() {
     return (
         <div>
